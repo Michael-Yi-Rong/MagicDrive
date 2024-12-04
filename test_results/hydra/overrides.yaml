@@ -1,0 +1,2 @@
+- resume_from_checkpoint=pretrained/SDv1.5mv-rawbox_2023-09-07_18-39_224x400
+- ++runner.enable_xformers_memory_efficient_attention=false
